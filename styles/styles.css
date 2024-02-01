@@ -1,9 +1,13 @@
+Html {
+    font-size: 10px;
+}
+
 h1{
      color:dodgerblue;
-     font-size: 48px;
+     font-size: 4.8rem;
 
 }
 p{
-    font-size: 18px;
+    font-size: 1.8rem;
 
 }

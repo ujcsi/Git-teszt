@@ -1,6 +1,11 @@
+Eloadasok/
+
+**/.vs/
 **/bin/
 **/obj/
+**/x64/
+
 *.exe
 *.o
-Eloadasok/
 *.pdf
+*.user

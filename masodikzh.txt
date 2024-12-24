@@ -1,0 +1,28 @@
+1. Írjon függvényt, mely visszadja két int típusú paramétereiben lévõ számjegyeinek szorzatát!
+2. Írjon függvényt, mely képes egy char típusokat tartalmazó tömbbõl visszaadni a legkisebb elemet!
+3. Írjon függvényt, mely második int típusú paraméterét az elsõ int típusú paramétere kétszeresére növeli!
+4. Egy tömb elemei tartalmazzák egy telefon tömegét (float) és típusát (char). Írjon programot, mely bekér 20 telefont, s kiírja a legkönyebbek közül azokat, melyek típusa "x"!
+5. Az in.txt állományban egész számok vannak elválasztva szóközzel, írassa ki azokat az out.txt állományba, melyek elsõ számjegye azonos az utolsóval!
+
+
+
+1. Írjon függvényt, mely visszaadja két int típusú paraméterének legnagyobb közös számjegyét! Ha nincs ilyen, -1-et adjon vissza!
+2. Írjon függvényt, mely képes egy 4x4-es int típusokat tartalmazó tömbbõl visszaadni a tömb azon elemét, mely a legnagyobb!
+3. Írjon rekurzív függvényt, mely kiszámolja azon sorozat n. elemét, ahol az elsõ elem 2, s minden elem az elõzõ elem háromszorosának négyzete!
+4. Egy tömb elemei tartalmazzák egy téglarakás tömegét(float) és a benne lévõ téglák számát (int).Írjon programot, mely bekér 20 téglarakást, s kiírja annak a rakásnak az adatait, amelyben a legkönnyebb téglák vannak!
+5. Az in.txt állományban egész számok vannak elválasztva szóközzel, írassa ki azokat az out.txt állományba, melyek nem prímszámok!
+
+
+
+1. Írjon függvényt, mely visszaadja két char típusú paraméterének azonosságát! Ha azonosak, akkor 1-et adjon vissza, különben nullát! 
+2. Írjon függvényt, mely képes egy 3x3-as float típusokat tartalmazó tömb elemeinek szorzatát visszaadni!
+3. Írjon rekurzív függvényt, mely kiszámolja azon sorozat n. elemét, ahol az elsõ elem 3, s minden elem az elõzõ elem kétszeresének a köbe!
+4. Egy tömb elemei tartalmazzák egy kutya tömegét (float) és fogszámát (int). Írjon programot, mely bekér 20 kutyát, s kiírja melyik harapja a legerõsebbet, amennyiben a harapás erõssége egyenlõ a kutya tömegének és fogszámának a szorzata!
+5. Az in.txt állományban egész számok vannak elválasztva szóközzel. Írassa ki azokat az out.txt állományba, melyek elsõ és utolsó számjegye megegyezik!
+
+
+1. Írjon függvényt, mely visszaadja két int típusú paramétere különbségének abszolútértékét!
+2. Írjon függvényt, mely képes egy float típusokat tartalmazó kétdimenziós tömb "szélsõ" elemeinek összegét visszaadni! Egy elem szélsõ, ha vagy az elsõ sorban, vagy az elsõ oszlopban, vagy az utolsó sorban, vagy az utolsó oszlopban van.
+3. Írjon rekurzív függvényt, mely kiszámolja azon sorozat n. elemét, ahol az elsõ két elem értéke 2, minden más elem az elõzõ két elem szorzatának a kétszerese!
+4. Egy tömb elemei tartalmazzák egy autó tömegét (int) és rendszámának betûit (3 db karakter). Írjon programot, mely bekér 10 autót, s kiírja azok tömegeit, melyek rendszámában van 'A' karakter!
+5. Az in.txt állományban az angol ábécé betûi szerepelnek szóközzel elválasztva. Írassa ki az out.txt állományba, hogy melyikbõl hány darab van! Formátum: egy karakter, egy szóköz, majd a darabszám, mindegyik új sorban szerepeljen!

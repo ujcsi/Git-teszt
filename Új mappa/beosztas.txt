@@ -1314,3 +1314,5 @@ Szarvas Szamanta
 informatika
 12.x
 2
+
+2

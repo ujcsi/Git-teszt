@@ -15,11 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Zh4.cpp">
+    <ClCompile Include="Zh4.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="in.txt" />
+    <Text Include="out.txt" />
   </ItemGroup>
 </Project>

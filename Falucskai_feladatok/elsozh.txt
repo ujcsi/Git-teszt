@@ -1,0 +1,51 @@
+A csop
+1. Kérjen be négy különbözõ egész számot, s írassa ki csökkenõ sorrendben a harmadikat!
+
+2. Írassa ki tízezertõl kezdve százig azokat a számokat, amelyeknek pontosan 6 osztója van és balról a második számjegyük három!
+
+3. Adjon meg egy az angol ábécé kis- és nagybetûibõl álló 4 soros, 5 oszlopos tömböt, majd írassa ki azon elemeit, melyek elõtt a sorban nagybetû van!
+
+4. Kérjen be két szöveget (sztringet), majd írassa ki azokat a karaktereket, melyek mindkettõben szerepelnek!
+
+5. Írassa ki 10-tõl 99-ig azokat a számokat két tizedesjegy pontossággal, melyekben a tizedespont elõtti és utáni rész megegyezik, pl: 63.63
+
+______________________________________________
+B csop
+
+1. Kérjen be négy különbözõ karaktert, s írassa ki, melyikbõl hány darab van!
+
+2. Írassa ki tízezertõl kezdve százig azokat a számokat, amelyeknek elsõ számjegyük nem prímszám, valamint oszthatók néggyel!
+
+3. Adjon meg egy egész számokból álló 5 soros, 3 oszlopos tömböt, majd írassa ki azon elemeit, melyek elõtt az oszlopban kisebb szám van!
+
+4. Kérjen be két szöveget (sztringet), majd írassa ki azokat a karaktereket, melyek a másodikban többször szerepelnek, mint az elsõben!
+
+5. Írassa ki 0-tól 99-ig azokat a számokat két tizedesjegy pontossággal, melyekben a tizedespont elõtti és utáni rész fordított, pl: 63.36
+
+_____________________________________________
+C csop
+
+1. Kérjen be addig karaktereket, amíg nem gépel be számjegyet, s írassa ki, hogy hanyadik karakter volt a számjegy!
+
+2. Írassa ki tízezertõl kezdve százig azokat a számokat, amelyek elsõ számjegyével osztható a szám!
+
+3. Adjon meg egy egész számokból álló 3 soros, 5 oszlopos tömböt, majd írassa ki, hogy hány oszlopában több az elemek összege, mint 30!
+
+4. Kérjen be egy szöveget (sztringet), majd írassa ki hogy hányszor fordul benne elõ a 2. karakter!
+
+5. Írassa ki azokat a számokat két tizedesjegy pontossággal 0-tól 99-ig, ahol a tizedespont elõtti rész négyzete a tizedespont utáni rész, pl: 9.81
+
+_______________________________________________
+D csop
+1. Kérjen be addig egész számokat, amíg nem gépel be olyan számot, ami kisebb, mint az elõtte begépelt szám, s írassa ki, hogy hanyadik volt az utoljára begépelt szám!
+
+2. Írassa ki tízezertõl kezdve százig azokat a számokat, amelyek elsõ számjegye kisebb, mint az utolsó!
+
+3. Adjon meg egy, az angol ábécé karaktereibõl álló 3 soros, 5 oszlopos tömböt, majd írassa ki, hogy hány sorában több a kisbetûk száma, mint 3!
+
+4. Kérjen be egy szöveget (sztringet), majd írassa ki hogy hányszor fordul benne elõ a legtöbbször elõforduló karakter!
+
+5. Írassa ki azokat a számokat két tizedesjegy pontossággal 0-tól 99-ig, ahol a tizedespont mögötti rész fele a tizedespont elõtti rész, pl: 9.18
+
+
+

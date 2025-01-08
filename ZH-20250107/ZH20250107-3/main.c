@@ -22,8 +22,8 @@ int main()
 
 
 
-    int elso=21;
-    int masodik=33;
+    int elso=60;
+    int masodik=20;
     int c;
     c=fg(elso,masodik);
     printf("%d ",c);
